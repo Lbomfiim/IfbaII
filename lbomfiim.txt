@@ -5,6 +5,7 @@ Github - O Github é um serviço web que oferece diversas funcionalidades extras
 
 Questão 02. ​ O que você pôde notar de diferente? Comente.
 
+R= é o repositorio aparece no repositório
 
 Questão 03. ​ Existe um conceito muito importante no github chamado de ​ branch (ramo em
 inglês). ​'Defina branch no âmbito do github. Por que você utilizaria ​ branches ​ ? Para qual branch
